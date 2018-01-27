@@ -1,0 +1,50 @@
+main {
+	width: 800px;
+	box-sizing: border-box;
+	font-size: 0;
+	margin: auto;
+}
+
+.green {
+	width: 50%;
+	background: #3D7900;
+	border:  1px solid black;
+	height: 200px;
+	display: inline-block;
+}
+
+.blue {
+	width: 50%;
+	background: #0048FB;
+	border:  1px solid black;
+	height: 200px;
+	display: inline-block;
+}
+
+.gray {
+	width: 33.3%;
+	background: #808080;
+	border:  1px solid black;
+	height: 300px;
+	display: inline-block;
+
+}
+
+.black {
+	width: 33.3%;
+	background: #000000;
+	border:  1px solid black;
+	height: 300px;
+	display: inline-block;
+
+}
+
+.orange {
+	width: 33.3%;
+	background: #F3A633;
+	border:  1px solid black;
+	height: 300px;
+	display: inline-block;
+
+}
+
